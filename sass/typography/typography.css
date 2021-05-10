@@ -1,0 +1,12 @@
+@font-face {
+  font-family: FuturaBold;
+  src: url(../fonts/FuturaStdBold.otf);
+}
+@font-face {
+  font-family: FuturaMed;
+  src: url(../fonts/FuturaStdMedium.otf);
+}
+@font-face {
+  font-family: FuturaLight;
+  src: url(../fonts/FuturaStdLight.otf);
+}/*# sourceMappingURL=typography.css.map */
